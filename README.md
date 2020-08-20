@@ -1,6 +1,6 @@
 ### Welcome!
 
-Here you'll find some toy projects and old experiments.
+Here you'll find some toy projects and old experiments (what I do when I'm not doing real stuff for @Blockchain)
 
 The two most active projects are:
 
